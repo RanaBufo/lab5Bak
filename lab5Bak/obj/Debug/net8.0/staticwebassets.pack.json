@@ -1,0 +1,45 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Project\\lab5Bak\\wwwroot\\CatPage.html",
+      "PackagePath": "staticwebassets\\CatPage.html"
+    },
+    {
+      "Id": "D:\\Project\\lab5Bak\\wwwroot\\html\\MeowPage.html",
+      "PackagePath": "staticwebassets\\html\\MeowPage.html"
+    },
+    {
+      "Id": "D:\\Project\\lab5Bak\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "D:\\Project\\lab5Bak\\wwwroot\\pictures\\1.jpg",
+      "PackagePath": "staticwebassets\\pictures\\1.jpg"
+    },
+    {
+      "Id": "D:\\Project\\lab5Bak\\wwwroot\\pictures\\2.jpg",
+      "PackagePath": "staticwebassets\\pictures\\2.jpg"
+    },
+    {
+      "Id": "D:\\Project\\lab5Bak\\wwwroot\\pictures\\3.jpg",
+      "PackagePath": "staticwebassets\\pictures\\3.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.lab5Bak.props",
+      "PackagePath": "build\\lab5Bak.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.lab5Bak.props",
+      "PackagePath": "buildMultiTargeting\\lab5Bak.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.lab5Bak.props",
+      "PackagePath": "buildTransitive\\lab5Bak.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.lab5Bak.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
